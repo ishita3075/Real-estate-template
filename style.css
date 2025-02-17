@@ -1,0 +1,197 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Plus Jakarta Sans", serif;
+}
+.header{
+    margin-top: 25px;
+    width: 1280px;
+    height: 60px;
+    margin-left: 40px;
+    background-color: #fafafa;
+    border-radius: 40px;
+}
+ul{
+    display: flex;
+    list-style-type: none;
+    white-space: nowrap;
+}
+.ul1{
+    gap: 25px;
+    margin-left: -15px;
+}
+.searchbar{
+    height: 45px;
+    width: 500px;
+    background-color: white;
+    margin-top: 8px;
+    border-radius: 30px;
+}
+.ul2{
+    gap: 160px;
+}
+.searchicon{
+    height: 25px;
+    width: 25px;
+    margin-top: 10px;
+}
+.contact{
+    margin-left: -100px;
+    height:50px;
+    width: 140px;
+    border-radius: 30px;
+    margin-top: -10px;
+    font-size: 16px;
+}
+.linkbar{
+    margin-top: 10px;
+}
+.bar{
+    margin-top: 15px;
+}
+.media-box{
+    margin-top: 80px;
+    height: 450px;
+    width: 1280px;
+    background-image: linear-gradient( to right, #c1dee8, #fbd9b9);
+    border-radius: 20px;
+    margin-left: 35px;
+    margin-bottom: 40px;
+    position: relative;
+}
+.media-text{
+    margin-top: 70px;
+    margin-left: 40px;
+    position: absolute;
+}
+h1{
+    font-size: 63px;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 90px;
+}
+.media-text1{
+    margin-top: 260px;
+    margin-left: 40px;
+    position: absolute;
+}
+.input-email{
+    width: 400px;
+    height: 45px;
+    background-color: white;
+    border-radius: 30px;
+    position: absolute;
+    margin-top: 330px;
+    margin-left: 40px;
+    border: none;
+    text-align: left;
+    color: grey;
+    padding: 15px;
+    font-size: 17px;
+    pointer-events: none;
+}
+.input-quote{
+    height: 45px;
+    width: 120px;
+    margin-left: 320px;
+    border: none;
+    color: white;
+    background-color: black;
+    position: absolute;
+    border-radius: 30px;
+    margin-top: 330px;
+    pointer-events: none;
+}
+.house{
+    margin-left: 650px;
+    height: 460px;
+    width: 600px;
+    margin-top: -10px;
+}
+.text{
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: -50px;
+}
+h2{
+    text-align: center;
+    font-size: 38px;
+    margin-top: 60px;
+}
+.content{
+    gap: 100px;
+    margin-left: 10px;
+    margin-top: 60px;
+}
+.line{
+    margin-left: 40px;
+    margin-top: 70px;
+}
+.heading{
+    margin-top: -5px;
+    text-align: left;
+    margin-left: 40px;
+}
+.villas{
+    gap: 20px;
+}
+.villa{
+    height: 400px;
+    width: 410px;
+    margin-top: -70px;
+}
+h4{
+    font-size: 20px;
+    margin-top: -50px;
+}
+h5{
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.para{
+    margin-left: 100px;
+}
+.photo{
+    height: 500px;
+    width: 500px;
+    margin-left: 740px;
+    margin-top:-500px;
+    position: absolute;
+}
+button{
+    margin-left: 50px;
+    height: 45px;
+    width: 120px;
+    background-color: white;
+    margin-top: 18px;
+    border-radius: 30px;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    zoom: 1.1;
+}
+.read-button{
+    margin-left: 15px;
+}
+.num{
+    margin-left: 40px;
+    gap: 90px;
+}
+.txt{
+    margin-top: -20px;
+}
+.footer-heading{
+    text-align: left;
+    margin-top: 80px;
+    margin-left: 40px;
+    position: absolute;
+    font-size: 48px;
+}
+.footer-txt{
+    margin-left: 40px;
+    margin-top: 180px;
+    position: absolute;
+    line-height: 1.6;
+}
