@@ -169,12 +169,12 @@ button{
     background-color: white;
     margin-top: 18px;
     border-radius: 30px;
-    cursor:pointer;
 }
 button:hover{
     background-color: black;
     color: white;
     zoom: 1.1;
+    cursor: pointer;
 }
 .read-button{
     margin-left: 15px;
@@ -192,6 +192,7 @@ button:hover{
     margin-left: 40px;
     position: absolute;
     font-size: 48px;
+    cursor: pointer;
 }
 .footer-txt{
     margin-left: 40px;
