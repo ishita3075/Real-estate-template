@@ -11,6 +11,9 @@ body{
     background-color: #fafafa;
     border-radius: 40px;
 }
+li{
+    cursor:pointer;
+}
 ul{
     display: flex;
     list-style-type: none;
