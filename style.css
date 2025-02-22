@@ -11,9 +11,6 @@ body{
     background-color: #fafafa;
     border-radius: 40px;
 }
-li{
-    cursor:pointer;
-}
 ul{
     display: flex;
     list-style-type: none;
@@ -48,6 +45,7 @@ ul{
 }
 .linkbar{
     margin-top: 10px;
+    cursor: pointer;
 }
 .bar{
     margin-top: 15px;
@@ -92,6 +90,7 @@ h1{
     padding: 15px;
     font-size: 17px;
     pointer-events: none;
+    cursor: pointer;
 }
 .input-quote{
     height: 45px;
@@ -104,6 +103,7 @@ h1{
     border-radius: 30px;
     margin-top: 330px;
     pointer-events: none;
+    cursor: pointer;
 }
 .house{
     margin-left: 650px;
@@ -174,10 +174,10 @@ button:hover{
     background-color: black;
     color: white;
     zoom: 1.1;
-    cursor: pointer;
 }
 .read-button{
     margin-left: 15px;
+    cursor: pointer;
 }
 .num{
     margin-left: 40px;
@@ -192,7 +192,6 @@ button:hover{
     margin-left: 40px;
     position: absolute;
     font-size: 48px;
-    cursor: pointer;
 }
 .footer-txt{
     margin-left: 40px;
