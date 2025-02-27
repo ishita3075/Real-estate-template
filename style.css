@@ -29,6 +29,12 @@ ul{
 .ul1{
     gap: 40px;
 }
+.logo{
+    cursor: auto;
+}
+.bar{
+    cursor:pointer;
+}
 .searchbar{
     display: flex;
     height: 60px;
